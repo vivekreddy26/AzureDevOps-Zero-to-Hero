@@ -7,8 +7,12 @@
 ## Azure DevOps Demo Generator
 **Use these steps to load dummy data into your Azure DevOps project. We will use this data in the demo.**
 
-1. Navigate to https://azuredevopsdemogenerator.azurewebsites.net. This utility site will automate the creation of a new Azure DevOps project within your account that is prepopulated with content (work items, repos, etc.) required for the lab. 
+1. Navigate to https://azuredevopsdemogenerator.azurewebsites.net. This utility site will automate the creation of a new Azure DevOps project within your account that is prepopulated with content (work items, repos, etc.) required for the lab.
+   
+Note - enable the classic build and release pipeline!!
+If you're using brand new organization, please enable the creation of classic build and release pipeline by disabling the following flag under Organization Settings >> Pipelines >> Settings here.
 
+We are working on migrating the classic pipelines to YAML.
 2. Sign in using the Microsoft account associated with your Azure DevOps subscription.
 
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/33feacfa-47bb-4861-b87d-d026e1eb36ee)
