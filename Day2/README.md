@@ -23,6 +23,9 @@
 
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/b27fc6a5-0c6c-4cde-8ad9-8d11d935d7f5)
 
+Note:If you are not able to view the demo generator project after importing, follow below steps
+Try going to Organization Settings -> Security -> Policies and turn on the Third-party application access via OAuth. Should do the trick.
+
 
 ## Azure Boards Overview 
 Azure board is a project management tool to plan and track your work.
