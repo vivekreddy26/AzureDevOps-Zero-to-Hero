@@ -13,6 +13,7 @@ Note - enable the classic build and release pipeline!!
 If you're using brand new organization, please enable the creation of classic build and release pipeline by disabling the following flag under Organization Settings >> Pipelines >> Settings here.
 
 We are working on migrating the classic pipelines to YAML.
+
 2. Sign in using the Microsoft account associated with your Azure DevOps subscription.
 
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/33feacfa-47bb-4861-b87d-d026e1eb36ee)
